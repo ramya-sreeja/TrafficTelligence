@@ -38,7 +38,7 @@ The web app takes user input, preprocesses the data (using saved scaler and enco
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
-git clone https://github.com/himabinduguntu05/TrafficTelligence.git
+git clone [https://github.com/ramya-sreeja/TrafficTelligence.git]
 cd your-repo-name/Flask
 
 
